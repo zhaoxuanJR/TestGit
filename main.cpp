@@ -16,6 +16,11 @@ void windows_master()
 	cout<<"This is a windows_master"<<endl;
 }
 
+void ppp()
+{
+	cout<<"ppp"<<endl;
+}
+
 void windows_branch()
 {
 	cout<<"This is a windows_branch"<<endl;
@@ -28,5 +33,6 @@ int main()
     mac_master();
     windows_master();
  	windows_branch();
+ 	ppp();
     return 0;
 }
