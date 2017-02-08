@@ -26,6 +26,11 @@ void windows_branch()
 	cout<<"This is a windows_branch"<<endl;
 }
 
+void mac_branch()
+{
+    cout<<"I am mac_branch"<<endl;
+}
+
 int main()
 {
     cout << "Hello, World!" <<endl;
@@ -34,5 +39,6 @@ int main()
     windows_master();
  	windows_branch();
  	ppp();
+    mac_branch();
     return 0;
 }
