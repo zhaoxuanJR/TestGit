@@ -16,7 +16,6 @@ void windows_master()
 	cout<<"This is a windows_master"<<endl;
 }
 
-<<<<<<< HEAD
 void ppp()
 {
 	cout<<"ppp"<<endl;
